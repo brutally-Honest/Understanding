@@ -26,7 +26,7 @@ Every doc here follows a similar map:
 3. **What Broke** — the failure that forced the idea into existence
 4. **Core Mechanism** — how it actually works, no hand-waving
 5. **Tradeoffs** — what you give up to get it
-6. **Production Usage** — where I've actually seen or used it (if I haven't, the doc says so instead of faking it)
+6. **Production Usage** — where I've actually seen or used it (if I haven't, well thats on me)
 7. **Common Failure Modes** — how it breaks, and how that looks in practice
 8. **Practical Guidelines** — when to reach for it, when not to
 9. **One-line Principle** — the takeaway if you remember nothing else
