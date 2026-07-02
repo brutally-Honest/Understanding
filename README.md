@@ -3,6 +3,7 @@
 Things I broke, debugged, or got curious about — written down before I forget how I actually understood them.
  
 None of this starts from a textbook. It starts from something I'm actually using and not fully understanding yet — then I work backward, or just get curious and follow it.
+Some of this is depth-first understanding. Some of it is system design concepts and interview cheatsheets — condensed for recall speed, not depth.
 
 Some of it:
  
@@ -19,7 +20,7 @@ Two rules for anything that goes in here:
 
 ## Format
  
-Every doc here follows a similar map:
+Every doc (Mostly) here follows a similar map:
  
 1. **Mental Model** — the one image/analogy that makes the rest click
 2. **Historical Evolution** — why it exists, what it replaced
